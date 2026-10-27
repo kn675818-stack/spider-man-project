@@ -1,0 +1,30 @@
+JS(Javascript) ----- 3 parts
+1. Synchronous JS : Build the Logics
+                    Variabls, operators , functions , loops , Arrays , oBJECTS AOB, 
+2.Asynchronus:  Handle the Dta, Backend Logic Building , Error Handling
+                Event loop, sync ,asnycjs , Microtask Queue, Promises , Exception Handling 
+3.DOM - to manipulate your static webpage to a Dynamice webpage 
+              
+
+
+
+              history of js  
+
+
+
+
+
+              1995 -2009
+
+
+
+              js was only  responsible to perform Dom 
+
+              pb : To show O/P we have to go to browser(Browser Dependent)
+
+
+
+
+              2009-- Rayn Dahl --- node js -- Runtime envirnment that is responsible to run js code anywhere in the system 
+
+              
